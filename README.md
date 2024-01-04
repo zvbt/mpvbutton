@@ -21,7 +21,7 @@ You can doing things like:
 2. Add directory with mpv to [%PATH%](https://www.java.com/en/download/help/path.xml) 
 3. Run in console
     ```
-    $ git clone [https://github.com/XENKing/mpvbutton](https://github.com/zvbt/mpvbutton)
+    $ git clone https://github.com/zvbt/mpvbutton
     $ cd mpvbutton
     $ start install.bat
     ```
